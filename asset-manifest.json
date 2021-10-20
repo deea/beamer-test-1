@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/beamer-test-1/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/beamer-test-1/static/js/main.dec37967.chunk.js",
-    "main.js.map": "/beamer-test-1/static/js/main.dec37967.chunk.js.map",
-    "runtime-main.js": "/beamer-test-1/static/js/runtime-main.efcb2da2.js",
-    "runtime-main.js.map": "/beamer-test-1/static/js/runtime-main.efcb2da2.js.map",
-    "static/js/2.4a2eea96.chunk.js": "/beamer-test-1/static/js/2.4a2eea96.chunk.js",
-    "static/js/2.4a2eea96.chunk.js.map": "/beamer-test-1/static/js/2.4a2eea96.chunk.js.map",
-    "static/js/3.4fb0ef96.chunk.js": "/beamer-test-1/static/js/3.4fb0ef96.chunk.js",
-    "static/js/3.4fb0ef96.chunk.js.map": "/beamer-test-1/static/js/3.4fb0ef96.chunk.js.map",
+    "main.css": "/beamer-test-1/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/beamer-test-1/static/js/main.b43e3dc4.chunk.js",
+    "main.js.map": "/beamer-test-1/static/js/main.b43e3dc4.chunk.js.map",
+    "runtime-main.js": "/beamer-test-1/static/js/runtime-main.9dd49f50.js",
+    "runtime-main.js.map": "/beamer-test-1/static/js/runtime-main.9dd49f50.js.map",
+    "static/js/2.0a590229.chunk.js": "/beamer-test-1/static/js/2.0a590229.chunk.js",
+    "static/js/2.0a590229.chunk.js.map": "/beamer-test-1/static/js/2.0a590229.chunk.js.map",
+    "static/js/3.886a1e27.chunk.js": "/beamer-test-1/static/js/3.886a1e27.chunk.js",
+    "static/js/3.886a1e27.chunk.js.map": "/beamer-test-1/static/js/3.886a1e27.chunk.js.map",
     "index.html": "/beamer-test-1/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/beamer-test-1/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4a2eea96.chunk.js.LICENSE.txt": "/beamer-test-1/static/js/2.4a2eea96.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/beamer-test-1/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/beamer-test-1/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0a590229.chunk.js.LICENSE.txt": "/beamer-test-1/static/js/2.0a590229.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.efcb2da2.js",
-    "static/js/2.4a2eea96.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dec37967.chunk.js"
+    "static/js/runtime-main.9dd49f50.js",
+    "static/js/2.0a590229.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b43e3dc4.chunk.js"
   ]
 }
