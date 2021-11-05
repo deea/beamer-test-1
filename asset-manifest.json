@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/beamer-test-1/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/beamer-test-1/static/js/main.e52c224e.chunk.js",
-    "main.js.map": "/beamer-test-1/static/js/main.e52c224e.chunk.js.map",
+    "main.js": "/beamer-test-1/static/js/main.5eadd2c8.chunk.js",
+    "main.js.map": "/beamer-test-1/static/js/main.5eadd2c8.chunk.js.map",
     "runtime-main.js": "/beamer-test-1/static/js/runtime-main.17c8d0b5.js",
     "runtime-main.js.map": "/beamer-test-1/static/js/runtime-main.17c8d0b5.js.map",
     "static/js/2.13eb1297.chunk.js": "/beamer-test-1/static/js/2.13eb1297.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.17c8d0b5.js",
     "static/js/2.13eb1297.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e52c224e.chunk.js"
+    "static/js/main.5eadd2c8.chunk.js"
   ]
 }
